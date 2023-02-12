@@ -1,5 +1,5 @@
 """
-ASGI config for BankinkMain project.
+ASGI config for BankingMain project.
 
 It exposes the ASGI callable as a module-level variable named ``application``.
 

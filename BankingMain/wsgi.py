@@ -1,5 +1,5 @@
 """
-WSGI config for BankinkMain project.
+WSGI config for BankingMain project.
 
 It exposes the WSGI callable as a module-level variable named ``application``.
 
